@@ -1,0 +1,18 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-895c5627.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "css": [
+      "entry.734d06b0.css"
+    ],
+    "assets": [
+      "gila.d75547c5.jpg",
+      "color.473bc8ca.png",
+      "primeicons.c9eaf535.eot",
+      "primeicons.788dba0a.ttf",
+      "primeicons.feb68bf6.woff",
+      "primeicons.2ab98f70.svg"
+    ]
+  }
+}
